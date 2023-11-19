@@ -4,7 +4,6 @@
   
 🔭 I’m currently working on
 - A restaurant website [little-lemon](https://github.com/Siwi0w0/little-lemon) with booking and online ordering function ( updated 4 days ago )
-  - Built with React
 - [JP Morgan job stimulating task 1](https://github.com/Siwi0w0/forage-jpmc-swe-task-1) on Forage ( update 1 week ago )
 - My portfolio website [https://yufei.website/](https://github.com/Siwi0w0/portfolio-app) ( update 1 day ago )
 - A web app [if-we-can-fly](https://github.com/Siwi0w0/if-we-can-fly) that enables users control a bird flying using mouse ( planning )
