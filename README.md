@@ -11,7 +11,7 @@
 - A web app [if-we-can-fly](https://github.com/Siwi0w0/if-we-can-fly) that enables users control a bird flying using mouse ( planning )
 - A web [email alert](https://github.com/Siwi0w0/aurora-alert) monitoring Aurora in UK ( planning )
 
-🌱 I’m currently learning [Node.js]([https://tailwindcss.com/](https://nodejs.org/en/docs)) and [TypeScript](typescript-tutorial)
+🌱 I’m currently learning [Node.js](https://nodejs.org/en/docs) and [TypeScript](typescript-tutorial)
 
 📫 How to reach me: yufei.sun64@gmail.com
 😺 Pronouns: she/her
