@@ -1,6 +1,6 @@
 ### Hi there 👋 
   Game lover.
-  Interested in Front end dev.
+  Front end developer.
   
 🔭 I’m currently working on
 - A chat app powered by OpenAI, built with: ( update 1 day ago )
