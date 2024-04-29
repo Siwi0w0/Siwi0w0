@@ -1,6 +1,6 @@
 ### Hi there👋 , I'm ...
-  A game lover. \\
-  A front end developer who is exploring full-stack dev.
+  A game lover. 
+  A self-taught person on her way to be a front end developer.
   
 🔭 I’m currently working on
 - E-commerce website application [TypeScript E-commerce web](https://github.com/Siwi0w0/TypeScript-E-commerce-web)( update 1 week ago )
