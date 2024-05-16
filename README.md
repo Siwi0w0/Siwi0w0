@@ -3,7 +3,7 @@
   A front end developer who enjoys good design.
   
 🔭 I’m currently working on
-- E-commerce website application [TypeScript E-commerce web](https://github.com/Siwi0w0/TypeScript-E-commerce-web)( update 1 week ago )
+- E-commerce website application [TypeScript E-commerce web](https://github.com/Siwi0w0/TypeScript-E-commerce-web)( update 2 days ago )
   - User can search for products, add to cart and more.
   - Built with
     - HTML, CSS, TypeScript
@@ -31,7 +31,7 @@
 
 🌱 I’m currently learning [Node.js](https://nodejs.org/en/docs) and [TypeScript](typescript-tutorial)
 
-📫 How to reach me: yufei.sun64@gmail.com
+📫 How to reach me: rebecca.sun316@gmail.com
 
 😺 Pronouns: she/her
   
