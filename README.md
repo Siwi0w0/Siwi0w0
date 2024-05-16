@@ -11,7 +11,7 @@
     - Node.js
     - Express.js.
 
-- MERN stack web app [Employee Info System](https://github.com/Siwi0w0/mern-stack-example)( update 1 day ago )
+- MERN stack web app [Employee Info System](https://github.com/Siwi0w0/mern-stack-example)( update 1 week ago )
   - It allows user to add employee info and display employee info data as a form.
   - Built with
     - MongoDB
