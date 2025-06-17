@@ -1,6 +1,6 @@
 ### Hi there👋 , I'm Siwi, also...
 - A game lover. 
-- A Full stack developer who enjoys learning new techiques.
+- A Full stack developer who enjoys learning new techniques.
 
 🌱 I’m currently refactoring my Portfolio website.
 
