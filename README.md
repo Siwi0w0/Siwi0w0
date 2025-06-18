@@ -2,7 +2,14 @@
 - A game lover. 
 - A Full stack developer who enjoys learning new techniques.
 
-🌱 I’m currently refactoring my Portfolio website.
+🌱 My Tech Stack
+**Frontend**
+- React & TypeScript/JavaScript for building scalable and performant UI components.
+- Redux / Zustand for predictable and efficient state management.
+- Next.js for server-side rendering and building production-ready React apps.
+
+**Backend**
+- Node.js, Express, and MongoDB/MySQL for building full-stack applications.
 
 💼 My friends and I are currently working on:
 - a AI-powered mental wellness tool to help recognize emotions [Toweel](https://github.com/Towe-el), we're excited about it!
