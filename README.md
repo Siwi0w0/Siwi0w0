@@ -3,6 +3,7 @@
 - A Full stack developer who enjoys learning new techniques.
 
 🌱 My Tech Stack
+
 **Frontend**
 - React & TypeScript/JavaScript
 - Redux
