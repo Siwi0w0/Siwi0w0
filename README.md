@@ -5,9 +5,11 @@
 🌱 My Tech Stack
 
 **Frontend**
-- React & TypeScript/JavaScript
+- React
+- TypeScript/JavaScript
 - Redux
 - Next.js
+- TailwindCSS
 
 **Backend**
 - Node.js, Express.js
