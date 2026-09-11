@@ -1,6 +1,6 @@
-### Hi there👋 , I'm Siwi, also...
-- A game lover. 
-- A Full stack developer who enjoys learning new techniques.
+### Hi there👋 , I'm Yufei! I'm...
+- An Illustrator who don't support GenAI art.
+- A Full stack developer who dev for fun.
 
 🌱 My Tech Stack
 
@@ -15,9 +15,9 @@
 - Node.js, Express.js
 - MongoDB/MySQL
 
-💼 My friends and I are currently working on:
-- a AI-powered mental wellness tool to help recognize emotions [Toweel](https://github.com/Towe-el), we're excited about it!
-- a productivity tool helps time managment [Deeeep](https://github.com/DeepWork2025) ,feel free to have a glance.
+💼 I'm currently working on:
+- My personal website to display my illustrations.
+- A picture book inspired by Irish Folklore.
 
 📫 How to reach me: yufei.sun64@gmail.com
 
